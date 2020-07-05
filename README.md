@@ -42,7 +42,7 @@ All my table schemas ran without error and include required columns and each tab
 New tables are exported to CSV files, with no errors
 
 
-# Technical Analysis to show the memtorship eligibility
+# Technical Analysis to show the mentorship eligibility
 All queries provide the expected results and all queries ran without error
 
 ## I have created a new table to show a list of current employees born between Jan. 1, 1965 and Dec. 31, 1965
